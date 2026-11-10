@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.LugmetyOrderAssistant" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/lugmety_primary_dark</item>
+        <item name="android:navigationBarColor">@color/background_dark</item>
+    </style>
+</resources>

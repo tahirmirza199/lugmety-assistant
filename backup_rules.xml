@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Keep user records strictly local to the device -->
+    <exclude domain="database" path="lugmety_assistant.db" />
+    <exclude domain="database" path="lugmety_assistant.db-shm" />
+    <exclude domain="database" path="lugmety_assistant.db-wal" />
+</full-backup-content>

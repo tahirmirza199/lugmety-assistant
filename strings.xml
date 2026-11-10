@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lugmety Order Assistant</string>
+    <string name="accessibility_service_description">Enables automated pull-to-refresh swipe gestures and incoming order detection on verified Lugmety driver order lists.</string>
+    <string name="channel_monitoring_name">Active Monitoring Service</string>
+    <string name="channel_monitoring_desc">Ongoing foreground notification while monitoring Lugmety for new orders</string>
+    <string name="channel_orders_name">New Order Alerts</string>
+    <string name="channel_orders_desc">High-priority sound and vibration alerts when new Lugmety orders appear</string>
+    <string name="channel_alerts_name">System Warnings &amp; Diagnostics</string>
+</resources>

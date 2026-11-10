@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Primary Colors -->
+    <color name="lugmety_primary">#0077B6</color>
+    <color name="lugmety_primary_dark">#0B132B</color>
+    <color name="lugmety_accent">#00F5D4</color>
+    <color name="lugmety_cyan">#48CAE4</color>
+
+    <!-- Dark Navy Surface Colors -->
+    <color name="background_dark">#0B132B</color>
+    <color name="surface_dark">#1C2541</color>
+    <color name="lugmety_navy_dark">#0B132B</color>
+    <color name="lugmety_navy_surface">#1C2541</color>
+    <color name="lugmety_blue_primary">#0077B6</color>
+    <color name="lugmety_cyan_accent">#48CAE4</color>
+    <color name="lugmety_cyan_neon">#00F5D4</color>
+
+    <!-- Status & Alerts -->
+    <color name="status_success">#00F5D4</color>
+    <color name="status_warning">#F59E0B</color>
+    <color name="status_error">#F43F5E</color>
+
+    <!-- Base Neutrals -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
